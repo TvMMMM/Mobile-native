@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">I-Explore</string>
+    <string name="title">Upload</string>
+    <string name="event_title">Title</string>
+    <string name="event_location">Location</string>
+    <string name="event_image">Image</string>
+    <string name="event_reporter">Reporter\'s name</string>
+    <string name="event_describe">Describe</string>
+    <string name="btn_upload">Create</string>
+
+<!--notification-->
+    <string name="error_notification_name">Title cannot be blank</string>
+    <string name="error_notification_data">Date cannot be blank</string>
+    <string name="error_notification_reporter">Reporter\'s name cannot be blank</string>
+
+
+</resources>
